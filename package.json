@@ -1,14 +1,14 @@
 {
   "name": "react_hosting_script",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple react hosting script written in javascript and uses the expressjs framework",
   "main": "index.js",
   "scripts": {
     "start":"node index.js"
   },
-  "keywords": [],
-  "author": "john kerama",
-  "license": "ISC",
+  "keywords": ["react","hosting","script"],
+  "author": "john kerama < johnnesta2018@gmail.com >",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
   }
